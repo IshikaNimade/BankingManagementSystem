@@ -33,9 +33,7 @@ To run the Banking Management System CLI application, follow these steps:
 
 1. Ensure you have Kotlin installed on your system.
 2. Clone this repository:
-   '''
-   git clone 'https://github.com/your-username/kotlin-banking-management.git'
-   '''
+   git clone 'https://github.com/your-username/kotlin-banking-management'
 3. Navigate to the project directory
 4. Compile the Kotlin code
 5. Run the application
